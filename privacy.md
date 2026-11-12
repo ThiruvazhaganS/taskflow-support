@@ -1,47 +1,65 @@
 ---
 ---
-# TaskFlow: Daily Planner — Support
+# TaskFlow: Daily Planner — Privacy Policy
 
-Welcome to the official support page for **TaskFlow: Daily Planner**.
+**Last updated: November 12, 2026**
 
-TaskFlow is a simple iPhone application designed to help you create, organize, edit, and complete your everyday tasks.
+TaskFlow: Daily Planner respects your privacy. This Privacy Policy explains how information is handled when you use the application.
 
-## Contact Support
+## 1. Information Stored by TaskFlow
 
-Have a question, found a bug, or want to suggest an improvement?
+TaskFlow allows you to create and manage tasks, including titles, notes, completion status, and other task information.
+
+This information is stored locally on your device.
+
+TaskFlow does not require an account to use its task-management features.
+
+## 2. Data Collection
+
+The current version of TaskFlow does not collect your task information on developer-operated servers.
+
+TaskFlow does not include advertising trackers or third-party analytics SDKs.
+
+## 3. Internet Access
+
+TaskFlow's core task-management features work without an internet connection.
+
+The application does not currently provide cloud synchronization between devices.
+
+## 4. Data Sharing
+
+TaskFlow does not sell your personal information or share your locally stored task information with advertisers.
+
+## 5. Data Security
+
+TaskFlow relies on the storage and security protections provided by Apple's operating system.
+
+Users should keep their devices and operating systems updated.
+
+## 6. Data Deletion
+
+You can delete individual tasks within TaskFlow.
+
+Uninstalling the application generally removes its locally stored app data, although copies may remain in device backups managed by Apple or the user.
+
+## 7. Support Communications
+
+If you voluntarily contact us by email, we may receive your email address and any information you choose to include.
+
+We use that information to respond to your inquiry and provide support. Email communications are handled separately from the TaskFlow application.
+
+## 8. Changes to This Policy
+
+We may update this Privacy Policy when TaskFlow's features or data practices change.
+
+The updated policy will be published on this page with a revised date.
+
+## 9. Contact
+
+For privacy questions or support:
 
 **Email:** thiruvazhagan2000@gmail.com
 
-When reporting a problem, please include the app version, iOS version, and a short description of the issue. You may include a screenshot if helpful.
-
-Please avoid sharing passwords or sensitive personal information.
-
-## Frequently Asked Questions
-
-**Does TaskFlow work offline?**
-
-Yes. TaskFlow allows you to create, edit, complete, and delete tasks without an internet connection.
-
-**Where are my tasks stored?**
-
-Your tasks are stored locally on your device.
-
-**Does TaskFlow require an account?**
-
-No. You can use TaskFlow without creating an account.
-
-**How do I delete a task?**
-
-Open a task and use the Delete Task option, or use the supported delete action in the task list.
-
-**Will my tasks remain after closing the app?**
-
-Yes. Saved tasks remain available when you reopen TaskFlow. Removing the app may remove locally stored task data.
-
-## Privacy
-
-Read our [Privacy Policy](privacy.html).
-
 ---
 
-Thank you for using TaskFlow!
+[Return to TaskFlow Support](./)using TaskFlow!
